@@ -9,3 +9,4 @@ cmake-build-*/
 *.kdev4
 *.iml
 .vscode/
+*.engine
